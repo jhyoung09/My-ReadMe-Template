@@ -157,7 +157,7 @@ Project Link: [https://github.com/jhyoung09/repo_name](https://github.com/jhyoun
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* blah blah blah....
+* [Roshan Lamichhane](https://github.com/roshanlam/ReadMeTemplate), for his awesome readme template
 
 
 
